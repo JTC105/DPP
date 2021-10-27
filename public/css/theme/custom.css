@@ -1,0 +1,9 @@
+/* your styles go here */
+
+select.provinceList {
+	width: 100%;
+}
+
+select.provinceList option {
+	width: 100%;
+}

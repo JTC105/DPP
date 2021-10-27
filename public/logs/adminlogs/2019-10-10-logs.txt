@@ -1,0 +1,4 @@
+[2019-10-10 14:48:23] tfsadmin updated dealer 48424 : NA-CONSOLIDATED INSURANCE CO. INC. to table TABLE 1 from table TABLE 1 in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 0 from 0) (CM Fee 3 Party: 0 from 0) (CM Lease: 2000 from 200)
+[2019-10-10 15:09:56] tfsadmin added tfsuser2 as user
+[2019-10-10 15:10:18] tfsadmin assigned user/s (tfscustomuser1, tfsuser2) to Role Custom 1
+[2019-10-10 15:10:33] tfsadmin assigned user/s (tfscustomuser1) to Role Custom 1

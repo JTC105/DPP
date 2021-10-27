@@ -1,0 +1,4 @@
+[2019-04-26 12:40:20] tfscadadmin updated local signatories of dealer 2059078 : MOTORMALL NCR, INC.
+[2019-04-26 12:40:35] tfscadadmin asssigned Kathleen L. Amores, VP and Maria Cecilia E. Baltazar, VP as TFSPH signatory of dealer 2059078 : MOTORMALL NCR, INC.
+[2019-04-26 12:42:06] tfscadadmin updated local signatories of dealer 2059078 : MOTORMALL NCR, INC.
+[2019-04-26 14:33:40] tfsadmin updated contract number 700690735 of dealer 61 : TOYOTA NORTH EDSA

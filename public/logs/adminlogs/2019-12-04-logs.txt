@@ -1,0 +1,4 @@
+[2019-12-04 13:58:53] tfsadmin added dealer 1486845 : HINO ABAD SANTOS
+[2019-12-04 13:59:13] tfsadmin updated dealer 1486845 : HINO ABAD SANTOS to table TABLE 1 from table NONE in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 0 from 0) (CM Fee 3 Party: 0 from 0) (CM Lease: 2000 from 0)
+[2019-12-04 14:34:03] tfsadmin updated tfs_lo_tmbi1 as user
+[2019-12-04 14:44:21] tfsadmin updated tfs_lo_tmbi1 as user

@@ -1,0 +1,12 @@
+[2019-05-07 12:58:50] tfsadmin added contract number 700664943 to dealer 15 : TOYOTA ALABANG INC
+[2019-05-07 12:59:11] tfsadmin printed contract number 700664943 of dealer 15 : TOYOTA ALABANG INC
+[2019-05-07 12:59:44] tfsadmin updated contract number 700664943 of dealer 15 : TOYOTA ALABANG INC
+[2019-05-07 13:00:33] tfsadmin updated dealer 57 : BUREAU OF INTERNAL REVENUE to table TABLE 1 from table TABLE 1 in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 0 from 200) (CM Fee 3 Party: 0 from 200) (CM Lease: 200 from 200)
+[2019-05-07 13:14:19] tfsadmin updated dealer 57 : BUREAU OF INTERNAL REVENUE to table NONE from table NONE in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 0 from 0) (CM Fee 3 Party: 0 from 0) (CM Lease: 200 from 200)
+[2019-05-07 13:14:38] tfsadmin updated dealer 47830 : LEXUS MANILA INC to table NONE from table TABLE 1 in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 100 from 0) (CM Fee 3 Party: 100 from 0) (CM Lease: 2000 from 2000)
+[2019-05-07 13:14:51] tfsadmin updated dealer 47830 : LEXUS MANILA INC to table TABLE 1 from table NONE in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 0 from 100) (CM Fee 3 Party: 0 from 100) (CM Lease: 2000 from 2000)
+[2019-05-07 13:45:45] tfsadmin asssigned Rosemarie B. Balina, AVP and Rosemarie B. Balina, AVP as TFSPH signatory of dealer 2059078 : MOTORMALL NCR, INC.
+[2019-05-07 13:55:29] tfsadmin updated dealer 47830 : LEXUS MANILA INC to table NONE from table TABLE 1 in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 0 from 0) (CM Fee 3 Party: 0 from 0) (CM Lease: 2000 from 2000)
+[2019-05-07 13:55:43] tfsadmin updated dealer 47830 : LEXUS MANILA INC to table TABLE 1 from table NONE in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 0 from 0) (CM Fee 3 Party: 0 from 0) (CM Lease: 2000 from 2000)
+[2019-05-07 13:55:54] tfsadmin updated dealer 995413 : TOYOTA BACOOR, CAVITE INC. to table NONE from table TABLE 1 in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 0 from 0) (CM Fee 3 Party: 0 from 0) (CM Lease: 2000 from 2000)
+[2019-05-07 13:56:02] tfsadmin updated dealer 995413 : TOYOTA BACOOR, CAVITE INC. to table TABLE 1 from table NONE in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 0 from 0) (CM Fee 3 Party: 0 from 0) (CM Lease: 2000 from 2000)

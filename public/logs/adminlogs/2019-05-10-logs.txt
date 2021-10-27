@@ -1,0 +1,16 @@
+[2019-05-10 13:16:23] tfsadmin added contract number 700704026 to dealer 15 : TOYOTA ALABANG INC
+[2019-05-10 13:22:59] tfsadmin added contract number 700704078 to dealer 15 : TOYOTA ALABANG INC
+[2019-05-10 13:25:06] tfsadmin added contract number 700704224 to dealer 15 : TOYOTA ALABANG INC
+[2019-05-10 13:36:43] tfsadmin added contract number 700719495 to dealer 1591773 : TOYOTA AKLAN INC.
+[2019-05-10 14:07:03] tfsadmin added dealer 48424 : NA-CONSOLIDATED INSURANCE CO. INC.
+[2019-05-10 14:07:24] tfsadmin updated dealer 48424 : NA-CONSOLIDATED INSURANCE CO. INC. to table NONE from table NONE in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 50 from 0) (CM Fee 3 Party: 50 from 0) (CM Lease: 200 from 0)
+[2019-05-10 14:07:36] tfsadmin updated dealer 48424 : NA-CONSOLIDATED INSURANCE CO. INC. to table NONE from table NONE in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 50 from 50) (CM Fee 3 Party: 50 from 0) (CM Lease: 200 from 200)
+[2019-05-10 14:08:24] tfsadmin updated dealer 48424 : NA-CONSOLIDATED INSURANCE CO. INC. to table NONE from table NONE in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 0 from 50) (CM Fee 3 Party: 0 from 50) (CM Lease: 200 from 200)
+[2019-05-10 14:08:34] tfsadmin updated dealer 48424 : NA-CONSOLIDATED INSURANCE CO. INC. to table NONE from table NONE in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 90 from 0) (CM Fee 3 Party: 90 from 0) (CM Lease: 200 from 200)
+[2019-05-10 14:08:45] tfsadmin updated dealer 48424 : NA-CONSOLIDATED INSURANCE CO. INC. to table TABLE 1 from table NONE in dealer fees record. Updated CM Fees Record: (CM Fee 2 Party: 0 from 90) (CM Fee 3 Party: 0 from 90) (CM Lease: 200 from 200)
+[2019-05-10 16:01:00] tfsadmin updated tfs_lo_tmbi1 as user
+[2019-05-10 17:50:28] tfsadmin added contract number 700721834 to dealer 1591773 : TOYOTA AKLAN INC.
+[2019-05-10 18:00:16] tfsadmin updated contract number 700721834 of dealer 1591773 : TOYOTA AKLAN INC.
+[2019-05-10 18:02:02] tfsadmin updated contract number 700721834 of dealer 1591773 : TOYOTA AKLAN INC.
+[2019-05-10 18:05:47] tfsadmin updated contract number 700721834 of dealer 1591773 : TOYOTA AKLAN INC.
+[2019-05-10 18:06:42] tfsadmin updated contract number 700721834 of dealer 1591773 : TOYOTA AKLAN INC.
